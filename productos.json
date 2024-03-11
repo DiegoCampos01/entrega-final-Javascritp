@@ -1,0 +1,57 @@
+[
+    {
+        "nombre": "Alimento para perros adultos Pedigree",
+        "precio": 50000,
+        "descripcion": "Alimento balanceado para perros adultos. Bolsa de 10kg."
+    },
+    {
+        "nombre": "Collar para perros",
+        "precio": 15000,
+        "descripcion": "Collar de cuero resistente para perros de tamaño mediano."
+    },
+    {
+        "nombre": "Juguete mordedor para cachorros",
+        "precio": 10000,
+        "descripcion": "Juguete de goma diseñado para cachorros en etapa de dentición."
+    },
+    {
+        "nombre": "Evolve",
+        "precio": 60000,
+        "descripcion": "Descripción del producto Evolve."
+    },
+    {
+        "nombre": "Hills",
+        "precio": 30000,
+        "descripcion": "Descripción del producto Hills."
+    },
+    {
+        "nombre": "Taste of the Wild",
+        "precio": 60000,
+        "descripcion": "Descripción del producto Taste of the Wild."
+    },
+    {
+        "nombre": "Orijen",
+        "precio": 80000,
+        "descripcion": "Descripción del producto Orijen."
+    },
+    {
+        "nombre": "Acana",
+        "precio": 50000,
+        "descripcion": "Descripción del producto Acana."
+    },
+    {
+        "nombre": "Royal Canin",
+        "precio": 30000,
+        "descripcion": "Descripción del producto Royal Canin."
+    },
+    {
+        "nombre": "Bulldog Guayabera",
+        "precio": 80000,
+        "descripcion": "Descripción del producto Bulldog Guayabera."
+    },
+    {
+        "nombre": "Chihuahua Mohawk",
+        "precio": 50000,
+        "descripcion": "Descripción del producto Chihuahua Mohawk."
+    }
+]
